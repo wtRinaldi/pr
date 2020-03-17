@@ -1,0 +1,2343 @@
+[
+    {
+        "id":"3732353457340810816",
+        "name":"NUR 201 Spring 3732352423939802489 - 1517846403",
+        "summary":{
+            "memberships":{
+                "invited":4,
+                "accepted":3,
+                "revoked":0
+            },
+            "checklistItems":{
+                "total":6,
+                "complete":0,
+                "pending":2,
+                "incomplete":4
+            }
+        },
+        "flexReferenceTags":[
+
+        ],
+        "school":"School Lima for Smart People",
+        "rotationStartDate":"2018-02-05",
+        "term":"Spring",
+        "course":"NUR 201",
+        "site":[
+            "Lima Hospital is the Best"
+        ]
+    },
+    {
+        "id":"5472230902526365890",
+        "name":"Checking Inst 2",
+        "summary":{
+            "memberships":{
+                "invited":3,
+                "accepted":3,
+                "revoked":0
+            },
+            "checklistItems":{
+                "total":6,
+                "complete":0,
+                "pending":6,
+                "incomplete":0
+            }
+        },
+        "flexReferenceTags":[
+
+        ],
+        "school":"School Lima for Smart People",
+        "rotationStartDate":"2019-07-28",
+        "term":"Fall",
+        "course":"Another Course 4",
+        "site":[
+            "Site Lima"
+        ]
+    },
+    {
+        "id":"5467242267754352766",
+        "name":"Template Reduced Two",
+        "summary":{
+            "memberships":{
+                "invited":4,
+                "accepted":2,
+                "revoked":0
+            },
+            "checklistItems":{
+                "total":49,
+                "complete":0,
+                "pending":26,
+                "incomplete":23
+            }
+        },
+        "flexReferenceTags":[
+
+        ],
+        "school":"School Lima for Smart People",
+        "rotationStartDate":"2019-09-12",
+        "term":"Summer II",
+        "course":"Another Course",
+        "site":[
+            "Site Lima"
+        ]
+    },
+    {
+        "id":"5466542197522288926",
+        "name":"Testing Sim Lab Exclusion",
+        "summary":{
+            "memberships":{
+                "invited":3,
+                "accepted":3,
+                "revoked":0
+            },
+            "checklistItems":{
+                "total":6,
+                "complete":0,
+                "pending":6,
+                "incomplete":0
+            }
+        },
+        "flexReferenceTags":[
+
+        ],
+        "school":"School Lima for Smart People",
+        "rotationStartDate":"2019-09-13",
+        "term":"Fall",
+        "course":"Another Course 4",
+        "site":[
+            "Site Lima"
+        ]
+    },
+    {
+        "id":"5466652863134421138",
+        "name":"Final Test",
+        "summary":{
+            "memberships":{
+                "invited":3,
+                "accepted":2,
+                "revoked":0
+            },
+            "checklistItems":{
+                "total":54,
+                "complete":0,
+                "pending":30,
+                "incomplete":24
+            }
+        },
+        "flexReferenceTags":[
+
+        ],
+        "school":"School Lima for Smart People",
+        "rotationStartDate":"2019-09-13",
+        "term":"Summer I",
+        "course":"Another Course",
+        "site":[
+            "Site Lima"
+        ]
+    },
+    {
+        "id":"5430279433166508214",
+        "name":"Its November 1st!",
+        "summary":{
+            "memberships":{
+                "invited":3,
+                "accepted":2,
+                "revoked":0
+            },
+            "checklistItems":{
+                "total":15,
+                "complete":1,
+                "pending":6,
+                "incomplete":8
+            }
+        },
+        "flexReferenceTags":[
+
+        ],
+        "school":"University Lima",
+        "rotationStartDate":"2020-01-13",
+        "term":"Spring",
+        "course":"NUR 101",
+        "site":[
+            "Lima Hospital is the Best"
+        ]
+    },
+    {
+        "id":"3750434573964543612",
+        "name":"M195 - new unit",
+        "summary":{
+            "memberships":{
+                "invited":4,
+                "accepted":4,
+                "revoked":0
+            },
+            "checklistItems":{
+                "total":12,
+                "complete":5,
+                "pending":3,
+                "incomplete":4
+            }
+        },
+        "flexReferenceTags":[
+
+        ],
+        "school":"School Lima for Smart People",
+        "rotationStartDate":"2018-03-01",
+        "term":"Spring",
+        "course":"NUR 101",
+        "site":[
+            "Lima Hospital is the Best"
+        ]
+    },
+    {
+        "id":"3737425784852187052",
+        "name":"M193 - 1",
+        "summary":{
+            "memberships":{
+                "invited":4,
+                "accepted":4,
+                "revoked":0
+            },
+            "checklistItems":{
+                "total":18,
+                "complete":1,
+                "pending":7,
+                "incomplete":10
+            }
+        },
+        "flexReferenceTags":[
+            {
+                "name":"STUFFFff",
+                "slug":"stufffff",
+                "color":"#2d8a42"
+            }
+        ],
+        "school":"School Lima for Smart People",
+        "rotationStartDate":"2018-01-01",
+        "term":"Spring",
+        "course":"NUR 201",
+        "site":[
+            "Site Lima",
+            "Lima Hospital is the Best",
+            "Hospital Bravo"
+        ]
+    },
+    {
+        "id":"3865027985723622572",
+        "name":"Webpack - 2",
+        "summary":{
+            "memberships":{
+                "invited":6,
+                "accepted":4,
+                "revoked":0
+            },
+            "checklistItems":{
+                "total":28,
+                "complete":0,
+                "pending":16,
+                "incomplete":12
+            }
+        },
+        "flexReferenceTags":[
+
+        ],
+        "school":"School Lima for Smart People",
+        "rotationStartDate":"2018-08-20",
+        "term":"Fall",
+        "course":"NUR 101",
+        "site":[
+            "Lima Hospital is the Best"
+        ]
+    },
+    {
+        "id":"5468597993047314702",
+        "name":"Checking Ins 3",
+        "summary":{
+            "memberships":{
+                "invited":3,
+                "accepted":1,
+                "revoked":0
+            },
+            "checklistItems":{
+                "total":52,
+                "complete":0,
+                "pending":28,
+                "incomplete":24
+            }
+        },
+        "flexReferenceTags":[
+
+        ],
+        "school":"School Lima for Smart People",
+        "rotationStartDate":"2019-09-04",
+        "term":"Fall",
+        "course":"Another Course 4",
+        "site":[
+            "Site Lima"
+        ]
+    },
+    {
+        "id":"5466659727985332234",
+        "name":"Another Test",
+        "summary":{
+            "memberships":{
+                "invited":3,
+                "accepted":2,
+                "revoked":0
+            },
+            "checklistItems":{
+                "total":54,
+                "complete":0,
+                "pending":30,
+                "incomplete":24
+            }
+        },
+        "flexReferenceTags":[
+
+        ],
+        "school":"School Lima for Smart People",
+        "rotationStartDate":"2019-09-13",
+        "term":"Summer I",
+        "course":"Another Course",
+        "site":[
+            "Site Lima"
+        ]
+    },
+    {
+        "id":"5467873265080849382",
+        "name":"2 Unit Group",
+        "summary":{
+            "memberships":{
+                "invited":4,
+                "accepted":3,
+                "revoked":0
+            },
+            "checklistItems":{
+                "total":53,
+                "complete":1,
+                "pending":29,
+                "incomplete":23
+            }
+        },
+        "flexReferenceTags":[
+            {
+                "name":"Medium Priority",
+                "slug":"medium-priority",
+                "color":"#ffc000"
+            },
+            {
+                "name":"Soft Silk Sheets",
+                "slug":"soft-silk-sheets",
+                "color":"#d6d6d6"
+            },
+            {
+                "name":"2504 Tag Bug Fixes - 1",
+                "slug":"2504-tag-bug-fixes-1",
+                "color":"#803782"
+            },
+            {
+                "name":"Castlebranch UpdateD",
+                "slug":"castlebranch-updated",
+                "color":"#328187"
+            }
+        ],
+        "school":"School Lima for Smart People",
+        "rotationStartDate":"2019-09-06",
+        "term":"Fall",
+        "course":"Another Course 4",
+        "site":[
+            "Site Lima"
+        ]
+    },
+    {
+        "id":"3687423879149520644",
+        "name":"NUR 201 Spring 16415 - 1512490380",
+        "summary":{
+            "memberships":{
+                "invited":2,
+                "accepted":1,
+                "revoked":0
+            },
+            "checklistItems":{
+                "total":0,
+                "complete":0,
+                "pending":0,
+                "incomplete":0
+            }
+        },
+        "flexReferenceTags":[
+
+        ],
+        "school":"School Lima for Smart People",
+        "rotationStartDate":"2018-01-01",
+        "term":"Spring",
+        "course":"NUR 201",
+        "site":[
+            "Hospital Bravo"
+        ]
+    },
+    {
+        "id":"3834628315667236116",
+        "name":"evals again",
+        "summary":{
+            "memberships":{
+                "invited":3,
+                "accepted":3,
+                "revoked":0
+            },
+            "checklistItems":{
+                "total":16,
+                "complete":0,
+                "pending":6,
+                "incomplete":10
+            }
+        },
+        "flexReferenceTags":[
+
+        ],
+        "school":"School Lima for Smart People",
+        "rotationStartDate":"2018-08-27",
+        "term":"Fall",
+        "course":"NUR 101",
+        "site":[
+            "Lima Hospital is the Best"
+        ]
+    },
+    {
+        "id":"5467166951308513850",
+        "name":"Including Course and Term",
+        "summary":{
+            "memberships":{
+                "invited":4,
+                "accepted":4,
+                "revoked":0
+            },
+            "checklistItems":{
+                "total":0,
+                "complete":0,
+                "pending":0,
+                "incomplete":0
+            }
+        },
+        "flexReferenceTags":[
+
+        ],
+        "school":"University Lima",
+        "rotationStartDate":"2019-09-07",
+        "term":"Fall",
+        "course":"NUR 101",
+        "site":[
+            "Site Lima"
+        ]
+    },
+    {
+        "id":"3950624265774040752",
+        "name":"Sam's Test",
+        "summary":{
+            "memberships":{
+                "invited":3,
+                "accepted":2,
+                "revoked":0
+            },
+            "checklistItems":{
+                "total":0,
+                "complete":0,
+                "pending":0,
+                "incomplete":0
+            }
+        },
+        "flexReferenceTags":[
+
+        ],
+        "school":"School Lima for Smart People",
+        "rotationStartDate":"2018-12-03",
+        "term":"Term III",
+        "course":"Course 5",
+        "site":[
+            "School Lima for Smart People"
+        ]
+    },
+    {
+        "id":"5502109361599664546",
+        "name":"7\/25\/2019 - Magda 2",
+        "summary":{
+            "memberships":{
+                "invited":3,
+                "accepted":3,
+                "revoked":0
+            },
+            "checklistItems":{
+                "total":52,
+                "complete":0,
+                "pending":26,
+                "incomplete":26
+            }
+        },
+        "flexReferenceTags":[
+
+        ],
+        "school":"University Lima",
+        "rotationStartDate":"2019-07-25",
+        "term":"Fall",
+        "course":"NUR 101",
+        "site":[
+            "Lima Hospital is the Best",
+            "Site Lima"
+        ]
+    },
+    {
+        "id":"5467229486535660306",
+        "name":"Items Reduced Four",
+        "summary":{
+            "memberships":{
+                "invited":2,
+                "accepted":2,
+                "revoked":0
+            },
+            "checklistItems":{
+                "total":74,
+                "complete":0,
+                "pending":38,
+                "incomplete":36
+            }
+        },
+        "flexReferenceTags":[
+
+        ],
+        "school":"School Lima for Smart People",
+        "rotationStartDate":"2019-09-12",
+        "term":"Summer I",
+        "course":"Another Course",
+        "site":[
+            "Site Lima"
+        ]
+    },
+    {
+        "id":"3692466336975292168",
+        "name":"M162 - Linked Group Exp",
+        "summary":{
+            "memberships":{
+                "invited":5,
+                "accepted":4,
+                "revoked":0
+            },
+            "checklistItems":{
+                "total":12,
+                "complete":1,
+                "pending":3,
+                "incomplete":8
+            }
+        },
+        "flexReferenceTags":[
+            {
+                "name":"STUFFFff",
+                "slug":"stufffff",
+                "color":"#2d8a42"
+            },
+            {
+                "name":"asdasdasoP",
+                "slug":"asdasdasop",
+                "color":"#ffd000"
+            },
+            {
+                "name":"asdasdsada",
+                "slug":"asdasdsada",
+                "color":"#0071b9"
+            },
+            {
+                "name":"Some new tag",
+                "slug":"some-new-tag",
+                "color":"#de1488"
+            }
+        ],
+        "school":"School Lima for Smart People",
+        "rotationStartDate":"2018-02-01",
+        "term":"Spring",
+        "course":"NUR 201",
+        "site":[
+            "Hospital Bravo"
+        ]
+    },
+    {
+        "id":"5430950965404487754",
+        "name":"Halloween.Testing.Clarke.AC",
+        "summary":{
+            "memberships":{
+                "invited":4,
+                "accepted":1,
+                "revoked":0
+            },
+            "checklistItems":{
+                "total":0,
+                "complete":0,
+                "pending":0,
+                "incomplete":0
+            }
+        },
+        "flexReferenceTags":[
+
+        ],
+        "school":"University Lima",
+        "rotationStartDate":"2020-01-27",
+        "term":"Spring",
+        "course":"NUR 101",
+        "site":[
+            "Lima Hospital is the Best"
+        ]
+    },
+    {
+        "id":"3728767418244269612",
+        "name":"M114 - Confirm Accept Notifications",
+        "summary":{
+            "memberships":{
+                "invited":5,
+                "accepted":4,
+                "revoked":1
+            },
+            "checklistItems":{
+                "total":10,
+                "complete":5,
+                "pending":1,
+                "incomplete":4
+            }
+        },
+        "flexReferenceTags":[
+            {
+                "name":"STUFFFff",
+                "slug":"stufffff",
+                "color":"#2d8a42"
+            },
+            {
+                "name":"\\\\9999999123",
+                "slug":"9999999123",
+                "color":"#000000"
+            },
+            {
+                "name":"Lynn's New Tag 1",
+                "slug":"lynns-new-tag-1",
+                "color":"#8de8f1"
+            },
+            {
+                "name":"Medium Priority",
+                "slug":"medium-priority",
+                "color":"#ffc000"
+            },
+            {
+                "name":"Castlebranch UpdateD",
+                "slug":"castlebranch-updated",
+                "color":"#328187"
+            }
+        ],
+        "school":"School Lima for Smart People",
+        "rotationStartDate":"2018-07-01",
+        "term":"Spring",
+        "course":"NUR 101",
+        "site":[
+            "Lima Hospital is the Best"
+        ]
+    },
+    {
+        "id":"5475933558298104810",
+        "name":"Duplicate Matching Criteria Testing",
+        "summary":{
+            "memberships":{
+                "invited":5,
+                "accepted":3,
+                "revoked":2
+            },
+            "checklistItems":{
+                "total":28,
+                "complete":0,
+                "pending":9,
+                "incomplete":19
+            }
+        },
+        "flexReferenceTags":[
+
+        ],
+        "school":"University Lima",
+        "rotationStartDate":"2019-08-30",
+        "term":"Fall",
+        "course":"NUR 201",
+        "site":[
+            "Site Lima"
+        ]
+    },
+    {
+        "id":"5488993007296304026",
+        "name":"test",
+        "summary":{
+            "memberships":{
+                "invited":2,
+                "accepted":2,
+                "revoked":0
+            },
+            "checklistItems":{
+                "total":9,
+                "complete":0,
+                "pending":3,
+                "incomplete":6
+            }
+        },
+        "flexReferenceTags":[
+
+        ],
+        "school":"University Lima",
+        "rotationStartDate":"2019-08-12",
+        "term":"Fall",
+        "course":"NUR 101",
+        "site":[
+            "Hospital Golf"
+        ]
+    },
+    {
+        "id":"3692464921162810916",
+        "name":"M162 - Group Exp",
+        "summary":{
+            "memberships":{
+                "invited":5,
+                "accepted":5,
+                "revoked":0
+            },
+            "checklistItems":{
+                "total":18,
+                "complete":4,
+                "pending":6,
+                "incomplete":8
+            }
+        },
+        "flexReferenceTags":[
+            {
+                "name":"Castlebranch UpdateD",
+                "slug":"castlebranch-updated",
+                "color":"#328187"
+            }
+        ],
+        "school":"School Lima for Smart People",
+        "rotationStartDate":"2018-01-01",
+        "term":"Spring",
+        "course":"NUR 101",
+        "site":[
+            "Lima Hospital is the Best"
+        ]
+    },
+    {
+        "id":"3688868633208948648",
+        "name":"M162 - Instructor CAN NOT edit",
+        "summary":{
+            "memberships":{
+                "invited":4,
+                "accepted":3,
+                "revoked":0
+            },
+            "checklistItems":{
+                "total":6,
+                "complete":0,
+                "pending":2,
+                "incomplete":4
+            }
+        },
+        "flexReferenceTags":[
+            {
+                "name":"\\\\9999999123",
+                "slug":"9999999123",
+                "color":"#000000"
+            }
+        ],
+        "school":"School Lima for Smart People",
+        "rotationStartDate":"2018-01-08",
+        "term":"Spring",
+        "course":"NUR 201",
+        "site":[
+            "Lima Hospital is the Best"
+        ]
+    },
+    {
+        "id":"3859949500135114216",
+        "name":"NUR 101 Summer II 24292 - 1533057037",
+        "summary":{
+            "memberships":{
+                "invited":6,
+                "accepted":4,
+                "revoked":2
+            },
+            "checklistItems":{
+                "total":28,
+                "complete":0,
+                "pending":16,
+                "incomplete":12
+            }
+        },
+        "flexReferenceTags":[
+
+        ],
+        "school":"School Lima for Smart People",
+        "rotationStartDate":"2018-09-01",
+        "term":"Summer II",
+        "course":"NUR 101",
+        "site":[
+            "Lima Hospital is the Best"
+        ]
+    },
+    {
+        "id":"5467256687897334430",
+        "name":"Both Templates",
+        "summary":{
+            "memberships":{
+                "invited":2,
+                "accepted":2,
+                "revoked":0
+            },
+            "checklistItems":{
+                "total":104,
+                "complete":0,
+                "pending":56,
+                "incomplete":48
+            }
+        },
+        "flexReferenceTags":[
+
+        ],
+        "school":"School Lima for Smart People",
+        "rotationStartDate":"2019-09-12",
+        "term":"Summer I",
+        "course":"Another Course",
+        "site":[
+            "Site Lima"
+        ]
+    },
+    {
+        "id":"5467168944106229906",
+        "name":"Excluding Course and Term",
+        "summary":{
+            "memberships":{
+                "invited":4,
+                "accepted":4,
+                "revoked":0
+            },
+            "checklistItems":{
+                "total":9,
+                "complete":0,
+                "pending":6,
+                "incomplete":3
+            }
+        },
+        "flexReferenceTags":[
+
+        ],
+        "school":"University Lima",
+        "rotationStartDate":"2019-09-28",
+        "term":"Spring",
+        "course":"NUR 201",
+        "site":[
+            "Site Lima"
+        ]
+    },
+    {
+        "id":"3834605824139854892",
+        "name":"testing eval completion",
+        "summary":{
+            "memberships":{
+                "invited":3,
+                "accepted":3,
+                "revoked":0
+            },
+            "checklistItems":{
+                "total":12,
+                "complete":0,
+                "pending":4,
+                "incomplete":8
+            }
+        },
+        "flexReferenceTags":[
+
+        ],
+        "school":"School Lima for Smart People",
+        "rotationStartDate":"2018-08-13",
+        "term":"Fall",
+        "course":"NUR 101",
+        "site":[
+            "Lima Hospital is the Best"
+        ]
+    },
+    {
+        "id":"3809858586285180844",
+        "name":"2521 Response Comment - 2",
+        "summary":{
+            "memberships":{
+                "invited":4,
+                "accepted":4,
+                "revoked":0
+            },
+            "checklistItems":{
+                "total":6,
+                "complete":5,
+                "pending":1,
+                "incomplete":0
+            }
+        },
+        "flexReferenceTags":[
+            {
+                "name":"STUFFFff",
+                "slug":"stufffff",
+                "color":"#2d8a42"
+            },
+            {
+                "name":"asdasdasoP",
+                "slug":"asdasdasop",
+                "color":"#ffd000"
+            }
+        ],
+        "school":"School Lima for Smart People",
+        "rotationStartDate":"2018-05-01",
+        "term":"Summer II",
+        "course":"NUR 101",
+        "site":[
+            "Lima Hospital is the Best"
+        ]
+    },
+    {
+        "id":"5486079785966752710",
+        "name":"Christy's Second Test Group",
+        "summary":{
+            "memberships":{
+                "invited":1,
+                "accepted":1,
+                "revoked":0
+            },
+            "checklistItems":{
+                "total":2,
+                "complete":0,
+                "pending":2,
+                "incomplete":0
+            }
+        },
+        "flexReferenceTags":[
+
+        ],
+        "school":"School Lima for Smart People",
+        "rotationStartDate":"2019-08-03",
+        "term":"Fall",
+        "course":"NUR 101",
+        "site":[
+            "Site Lima"
+        ]
+    },
+    {
+        "id":"5483244847043170498",
+        "name":"Sorting test",
+        "summary":{
+            "memberships":{
+                "invited":4,
+                "accepted":4,
+                "revoked":0
+            },
+            "checklistItems":{
+                "total":85,
+                "complete":0,
+                "pending":42,
+                "incomplete":43
+            }
+        },
+        "flexReferenceTags":[
+
+        ],
+        "school":"University Lima",
+        "rotationStartDate":"2019-08-31",
+        "term":"Fall",
+        "course":"NUR 101",
+        "site":[
+            "Site Lima"
+        ]
+    },
+    {
+        "id":"5466544587713532842",
+        "name":"Testing Sim Lab",
+        "summary":{
+            "memberships":{
+                "invited":3,
+                "accepted":3,
+                "revoked":0
+            },
+            "checklistItems":{
+                "total":0,
+                "complete":0,
+                "pending":0,
+                "incomplete":0
+            }
+        },
+        "flexReferenceTags":[
+
+        ],
+        "school":"School Lima for Smart People",
+        "rotationStartDate":"2019-09-03",
+        "term":"Fall",
+        "course":"Another Course 4",
+        "site":[
+            "School Lima for Smart People"
+        ]
+    },
+    {
+        "id":"3856376966294800084",
+        "name":"Magda testing account",
+        "summary":{
+            "memberships":{
+                "invited":5,
+                "accepted":1,
+                "revoked":2
+            },
+            "checklistItems":{
+                "total":0,
+                "complete":0,
+                "pending":0,
+                "incomplete":0
+            }
+        },
+        "flexReferenceTags":[
+
+        ],
+        "school":"School Lima for Smart People",
+        "rotationStartDate":"2018-07-27",
+        "term":"Summer I",
+        "course":"NUR 101",
+        "site":[
+            "School Lima for Smart People",
+            "Hospital Bravo"
+        ]
+    },
+    {
+        "id":"5466675148922802262",
+        "name":"Regular Amount Of Items",
+        "summary":{
+            "memberships":{
+                "invited":2,
+                "accepted":2,
+                "revoked":0
+            },
+            "checklistItems":{
+                "total":104,
+                "complete":0,
+                "pending":56,
+                "incomplete":48
+            }
+        },
+        "flexReferenceTags":[
+
+        ],
+        "school":"School Lima for Smart People",
+        "rotationStartDate":"2019-09-13",
+        "term":"Summer I",
+        "course":"Another Course",
+        "site":[
+            "Site Lima"
+        ]
+    },
+    {
+        "id":"3865091721914221976",
+        "name":"webpack - 3",
+        "summary":{
+            "memberships":{
+                "invited":5,
+                "accepted":4,
+                "revoked":0
+            },
+            "checklistItems":{
+                "total":12,
+                "complete":2,
+                "pending":4,
+                "incomplete":6
+            }
+        },
+        "flexReferenceTags":[
+
+        ],
+        "school":"School Lima for Smart People",
+        "rotationStartDate":"2018-08-20",
+        "term":"Fall",
+        "course":"NUR 101",
+        "site":[
+            "Lima Hospital is the Best"
+        ]
+    },
+    {
+        "id":"5441256054258127650",
+        "name":"3 Different Locations and Units",
+        "summary":{
+            "memberships":{
+                "invited":1,
+                "accepted":1,
+                "revoked":0
+            },
+            "checklistItems":{
+                "total":64,
+                "complete":0,
+                "pending":28,
+                "incomplete":36
+            }
+        },
+        "flexReferenceTags":[
+
+        ],
+        "school":"School Lima for Smart People",
+        "rotationStartDate":"2019-10-08",
+        "term":"Fall",
+        "course":"Another Course 4",
+        "site":[
+            "Site Whiskey",
+            "Site Delta",
+            "Site Lima"
+        ]
+    },
+    {
+        "id":"5475938781531984094",
+        "name":"Matching Criteria Group",
+        "summary":{
+            "memberships":{
+                "invited":3,
+                "accepted":3,
+                "revoked":0
+            },
+            "checklistItems":{
+                "total":68,
+                "complete":0,
+                "pending":34,
+                "incomplete":34
+            }
+        },
+        "flexReferenceTags":[
+
+        ],
+        "school":"University Lima",
+        "rotationStartDate":"2019-08-30",
+        "term":"Fall",
+        "course":"NUR 201",
+        "site":[
+            "Site Lima"
+        ]
+    },
+    {
+        "id":"5468595953608937714",
+        "name":"Exluded School",
+        "summary":{
+            "memberships":{
+                "invited":3,
+                "accepted":1,
+                "revoked":0
+            },
+            "checklistItems":{
+                "total":0,
+                "complete":0,
+                "pending":0,
+                "incomplete":0
+            }
+        },
+        "flexReferenceTags":[
+
+        ],
+        "school":"University Lima",
+        "rotationStartDate":"2019-09-27",
+        "term":"Fall",
+        "course":"NUR 101",
+        "site":[
+            "Site Lima"
+        ]
+    },
+    {
+        "id":"3780101248234030676",
+        "name":"Personal Tags 2412",
+        "summary":{
+            "memberships":{
+                "invited":8,
+                "accepted":4,
+                "revoked":0
+            },
+            "checklistItems":{
+                "total":12,
+                "complete":5,
+                "pending":3,
+                "incomplete":4
+            }
+        },
+        "flexReferenceTags":[
+
+        ],
+        "school":"School Lima for Smart People",
+        "rotationStartDate":"2018-01-10",
+        "term":"Spring",
+        "course":"NUR 101",
+        "site":[
+            "Lima Hospital is the Best"
+        ]
+    },
+    {
+        "id":"3999137613884687468",
+        "name":"last ind",
+        "summary":{
+            "memberships":{
+                "invited":4,
+                "accepted":4,
+                "revoked":0
+            },
+            "checklistItems":{
+                "total":14,
+                "complete":0,
+                "pending":10,
+                "incomplete":4
+            }
+        },
+        "flexReferenceTags":[
+
+        ],
+        "school":"School Lima for Smart People",
+        "rotationStartDate":"2019-02-07",
+        "term":"Spring",
+        "course":"NUR 201",
+        "site":[
+            "Site Lima"
+        ]
+    },
+    {
+        "id":"5467252948188778854",
+        "name":"Both Checklist Item Templates Reduced",
+        "summary":{
+            "memberships":{
+                "invited":2,
+                "accepted":2,
+                "revoked":0
+            },
+            "checklistItems":{
+                "total":49,
+                "complete":0,
+                "pending":25,
+                "incomplete":24
+            }
+        },
+        "flexReferenceTags":[
+
+        ],
+        "school":"School Lima for Smart People",
+        "rotationStartDate":"2019-09-12",
+        "term":"Summer I",
+        "course":"Another Course",
+        "site":[
+            "Site Lima"
+        ]
+    },
+    {
+        "id":"3692435790001866696",
+        "name":"M162 - 1 Ind Exp",
+        "summary":{
+            "memberships":{
+                "invited":4,
+                "accepted":4,
+                "revoked":0
+            },
+            "checklistItems":{
+                "total":13,
+                "complete":2,
+                "pending":5,
+                "incomplete":6
+            }
+        },
+        "flexReferenceTags":[
+            {
+                "name":"\\\\9999999123",
+                "slug":"9999999123",
+                "color":"#000000"
+            }
+        ],
+        "school":"School Lima for Smart People",
+        "rotationStartDate":"2018-01-01",
+        "term":"Spring",
+        "course":"NUR 201",
+        "site":[
+            "Lima Hospital is the Best"
+        ]
+    },
+    {
+        "id":"3856962640601417608",
+        "name":"Magdalena Testing 2",
+        "summary":{
+            "memberships":{
+                "invited":7,
+                "accepted":4,
+                "revoked":1
+            },
+            "checklistItems":{
+                "total":14,
+                "complete":13,
+                "pending":0,
+                "incomplete":1
+            }
+        },
+        "flexReferenceTags":[
+
+        ],
+        "school":"School Lima for Smart People",
+        "rotationStartDate":"2018-07-27",
+        "term":"Summer I",
+        "course":"NUR 101",
+        "site":[
+            "Lima Hospital is the Best"
+        ]
+    },
+    {
+        "id":"3874375316843529420",
+        "name":"Magdalena's test account",
+        "summary":{
+            "memberships":{
+                "invited":3,
+                "accepted":3,
+                "revoked":0
+            },
+            "checklistItems":{
+                "total":0,
+                "complete":0,
+                "pending":0,
+                "incomplete":0
+            }
+        },
+        "flexReferenceTags":[
+
+        ],
+        "school":"School Lima for Smart People",
+        "rotationStartDate":"2018-08-20",
+        "term":"Fall",
+        "course":"NUR 101",
+        "site":[
+            "School Lima for Smart People"
+        ]
+    },
+    {
+        "id":"3998367845460215744",
+        "name":"Magda - group 2\/7\/19",
+        "summary":{
+            "memberships":{
+                "invited":4,
+                "accepted":3,
+                "revoked":1
+            },
+            "checklistItems":{
+                "total":28,
+                "complete":1,
+                "pending":20,
+                "incomplete":7
+            }
+        },
+        "flexReferenceTags":[
+
+        ],
+        "school":"School Lima for Smart People",
+        "rotationStartDate":"2019-02-07",
+        "term":"Spring",
+        "course":"NUR 101",
+        "site":[
+            "Hospital Bravo"
+        ]
+    },
+    {
+        "id":"5466678264527311666",
+        "name":"Reduced Five",
+        "summary":{
+            "memberships":{
+                "invited":2,
+                "accepted":2,
+                "revoked":0
+            },
+            "checklistItems":{
+                "total":78,
+                "complete":0,
+                "pending":42,
+                "incomplete":36
+            }
+        },
+        "flexReferenceTags":[
+
+        ],
+        "school":"School Lima for Smart People",
+        "rotationStartDate":"2019-09-13",
+        "term":"Summer I",
+        "course":"Another Course",
+        "site":[
+            "Site Lima"
+        ]
+    },
+    {
+        "id":"3778690246451922168",
+        "name":"Unit Profiles #2377",
+        "summary":{
+            "memberships":{
+                "invited":5,
+                "accepted":4,
+                "revoked":0
+            },
+            "checklistItems":{
+                "total":12,
+                "complete":5,
+                "pending":3,
+                "incomplete":4
+            }
+        },
+        "flexReferenceTags":[
+
+        ],
+        "school":"School Lima for Smart People",
+        "rotationStartDate":"2018-01-08",
+        "term":"Spring",
+        "course":"NUR 101",
+        "site":[
+            "Lima Hospital is the Best"
+        ]
+    },
+    {
+        "id":"5462877061553050034",
+        "name":"Site Lima Group",
+        "summary":{
+            "memberships":{
+                "invited":1,
+                "accepted":1,
+                "revoked":0
+            },
+            "checklistItems":{
+                "total":11,
+                "complete":0,
+                "pending":4,
+                "incomplete":7
+            }
+        },
+        "flexReferenceTags":[
+
+        ],
+        "school":"School Lima for Smart People",
+        "rotationStartDate":"2019-09-09",
+        "term":"Fall",
+        "course":"Another Course 4",
+        "site":[
+            "Site Lima"
+        ]
+    },
+    {
+        "id":"3692512842705011852",
+        "name":"Testing Duo Role Membership - Manual Create",
+        "summary":{
+            "memberships":{
+                "invited":4,
+                "accepted":2,
+                "revoked":1
+            },
+            "checklistItems":{
+                "total":0,
+                "complete":0,
+                "pending":0,
+                "incomplete":0
+            }
+        },
+        "flexReferenceTags":[
+
+        ],
+        "school":"School Lima for Smart People",
+        "rotationStartDate":"2018-01-01",
+        "term":"Spring",
+        "course":"NUR 201",
+        "site":[
+            "Lima Hospital is the Best"
+        ]
+    },
+    {
+        "id":"3864967097431885540",
+        "name":"Webpack - 1",
+        "summary":{
+            "memberships":{
+                "invited":6,
+                "accepted":4,
+                "revoked":0
+            },
+            "checklistItems":{
+                "total":28,
+                "complete":0,
+                "pending":16,
+                "incomplete":12
+            }
+        },
+        "flexReferenceTags":[
+
+        ],
+        "school":"School Lima for Smart People",
+        "rotationStartDate":"2018-08-27",
+        "term":"Fall",
+        "course":"NUR 101",
+        "site":[
+            "Lima Hospital is the Best"
+        ]
+    },
+    {
+        "id":"3950622762904586076",
+        "name":"Ashley's Test",
+        "summary":{
+            "memberships":{
+                "invited":4,
+                "accepted":1,
+                "revoked":0
+            },
+            "checklistItems":{
+                "total":0,
+                "complete":0,
+                "pending":0,
+                "incomplete":0
+            }
+        },
+        "flexReferenceTags":[
+
+        ],
+        "school":"University Lima",
+        "rotationStartDate":"2018-12-24",
+        "term":"Spring",
+        "course":"NUR 201",
+        "site":[
+            "Site Lima"
+        ]
+    },
+    {
+        "id":"5502094094467322842",
+        "name":"Christy Testing",
+        "summary":{
+            "memberships":{
+                "invited":3,
+                "accepted":3,
+                "revoked":0
+            },
+            "checklistItems":{
+                "total":18,
+                "complete":0,
+                "pending":6,
+                "incomplete":12
+            }
+        },
+        "flexReferenceTags":[
+
+        ],
+        "school":"School Lima for Smart People",
+        "rotationStartDate":"2019-07-26",
+        "term":"Fall",
+        "course":"NUR 101",
+        "site":[
+            "Lima Hospital is the Best"
+        ]
+    },
+    {
+        "id":"5465684308414943634",
+        "name":"Testing Excluding Facility",
+        "summary":{
+            "memberships":{
+                "invited":1,
+                "accepted":1,
+                "revoked":0
+            },
+            "checklistItems":{
+                "total":0,
+                "complete":0,
+                "pending":0,
+                "incomplete":0
+            }
+        },
+        "flexReferenceTags":[
+
+        ],
+        "school":"School Lima for Smart People",
+        "rotationStartDate":"2019-09-16",
+        "term":"Fall",
+        "course":"Another Course 4",
+        "site":[
+            "Site Delta"
+        ]
+    },
+    {
+        "id":"5502812845869355342",
+        "name":"7\/24\/19 Magda",
+        "summary":{
+            "memberships":{
+                "invited":3,
+                "accepted":3,
+                "revoked":0
+            },
+            "checklistItems":{
+                "total":76,
+                "complete":0,
+                "pending":46,
+                "incomplete":30
+            }
+        },
+        "flexReferenceTags":[
+
+        ],
+        "school":"School Lima for Smart People",
+        "rotationStartDate":"2019-07-24",
+        "term":"Fall",
+        "course":"NUR 101",
+        "site":[
+            "Hospital Bravo",
+            "Site Lima"
+        ]
+    },
+    {
+        "id":"5467236536539927246",
+        "name":"Items Reduced Three",
+        "summary":{
+            "memberships":{
+                "invited":2,
+                "accepted":2,
+                "revoked":0
+            },
+            "checklistItems":{
+                "total":75,
+                "complete":0,
+                "pending":39,
+                "incomplete":36
+            }
+        },
+        "flexReferenceTags":[
+
+        ],
+        "school":"School Lima for Smart People",
+        "rotationStartDate":"2019-09-12",
+        "term":"Summer I",
+        "course":"Another Course",
+        "site":[
+            "Site Lima"
+        ]
+    },
+    {
+        "id":"5462877395939742630",
+        "name":"Site Delta Group",
+        "summary":{
+            "memberships":{
+                "invited":1,
+                "accepted":1,
+                "revoked":0
+            },
+            "checklistItems":{
+                "total":3,
+                "complete":0,
+                "pending":2,
+                "incomplete":1
+            }
+        },
+        "flexReferenceTags":[
+
+        ],
+        "school":"School Lima for Smart People",
+        "rotationStartDate":"2019-09-20",
+        "term":"Fall",
+        "course":"Another Course 4",
+        "site":[
+            "Site Delta"
+        ]
+    },
+    {
+        "id":"5430942970113151642",
+        "name":"Halloween.Spooky",
+        "summary":{
+            "memberships":{
+                "invited":3,
+                "accepted":2,
+                "revoked":0
+            },
+            "checklistItems":{
+                "total":0,
+                "complete":0,
+                "pending":0,
+                "incomplete":0
+            }
+        },
+        "flexReferenceTags":[
+
+        ],
+        "school":"University Lima",
+        "rotationStartDate":"2019-08-19",
+        "term":"Fall",
+        "course":"NUR 201",
+        "site":[
+            "Site Lima"
+        ]
+    },
+    {
+        "id":"3687423820211160536",
+        "name":"NUR 201 Spring 16421 - 1512490373",
+        "summary":{
+            "memberships":{
+                "invited":2,
+                "accepted":1,
+                "revoked":0
+            },
+            "checklistItems":{
+                "total":0,
+                "complete":0,
+                "pending":0,
+                "incomplete":0
+            }
+        },
+        "flexReferenceTags":[
+
+        ],
+        "school":"School Lima for Smart People",
+        "rotationStartDate":"2018-02-01",
+        "term":"Spring",
+        "course":"NUR 201",
+        "site":[
+            "Hospital Bravo"
+        ]
+    },
+    {
+        "id":"3688867970743797172",
+        "name":"M162 - Instructor CAN edit",
+        "summary":{
+            "memberships":{
+                "invited":3,
+                "accepted":3,
+                "revoked":0
+            },
+            "checklistItems":{
+                "total":12,
+                "complete":2,
+                "pending":4,
+                "incomplete":6
+            }
+        },
+        "flexReferenceTags":[
+
+        ],
+        "school":"School Lima for Smart People",
+        "rotationStartDate":"2018-01-01",
+        "term":"Spring",
+        "course":"NUR 101",
+        "site":[
+            "Lima Hospital is the Best"
+        ]
+    },
+    {
+        "id":"3999052158354851092",
+        "name":"Magda - individual 2\/8\/19",
+        "summary":{
+            "memberships":{
+                "invited":7,
+                "accepted":5,
+                "revoked":2
+            },
+            "checklistItems":{
+                "total":46,
+                "complete":0,
+                "pending":26,
+                "incomplete":20
+            }
+        },
+        "flexReferenceTags":[
+
+        ],
+        "school":"University Lima",
+        "rotationStartDate":"2019-02-08",
+        "term":"Spring",
+        "course":"NUR 101",
+        "site":[
+            "Hospital Zulu",
+            "Site Lima"
+        ]
+    },
+    {
+        "id":"3935300271260829460",
+        "name":"merger only have from user",
+        "summary":{
+            "memberships":{
+                "invited":2,
+                "accepted":1,
+                "revoked":0
+            },
+            "checklistItems":{
+                "total":0,
+                "complete":0,
+                "pending":0,
+                "incomplete":0
+            }
+        },
+        "flexReferenceTags":[
+
+        ],
+        "school":"School Lima for Smart People",
+        "rotationStartDate":"2018-11-01",
+        "term":"Spring",
+        "course":"Another Course",
+        "site":[
+            "Site Lima"
+        ]
+    },
+    {
+        "id":"3869442409465120028",
+        "name":"Testing for Improved Item History",
+        "summary":{
+            "memberships":{
+                "invited":6,
+                "accepted":2,
+                "revoked":1
+            },
+            "checklistItems":{
+                "total":0,
+                "complete":0,
+                "pending":0,
+                "incomplete":0
+            }
+        },
+        "flexReferenceTags":[
+
+        ],
+        "school":"University Lima",
+        "rotationStartDate":"2018-08-14",
+        "term":"Fall",
+        "course":"NUR 201",
+        "site":[
+            "Site Lima"
+        ]
+    },
+    {
+        "id":"5467171546520867338",
+        "name":"Excluding Schools",
+        "summary":{
+            "memberships":{
+                "invited":4,
+                "accepted":4,
+                "revoked":0
+            },
+            "checklistItems":{
+                "total":6,
+                "complete":0,
+                "pending":4,
+                "incomplete":2
+            }
+        },
+        "flexReferenceTags":[
+
+        ],
+        "school":"University Lima",
+        "rotationStartDate":"2019-09-07",
+        "term":"Spring",
+        "course":"NUR 201",
+        "site":[
+            "Site Lima"
+        ]
+    },
+    {
+        "id":"3876587006460953716",
+        "name":"testgroupmanage",
+        "summary":{
+            "memberships":{
+                "invited":4,
+                "accepted":3,
+                "revoked":0
+            },
+            "checklistItems":{
+                "total":12,
+                "complete":0,
+                "pending":4,
+                "incomplete":8
+            }
+        },
+        "flexReferenceTags":[
+
+        ],
+        "school":"University Lima",
+        "rotationStartDate":"2018-11-05",
+        "term":"Spring",
+        "course":"NUR 201",
+        "site":[
+            "Site Lima"
+        ]
+    },
+    {
+        "id":"3931787038738613912",
+        "name":"merger take 2",
+        "summary":{
+            "memberships":{
+                "invited":2,
+                "accepted":1,
+                "revoked":0
+            },
+            "checklistItems":{
+                "total":0,
+                "complete":0,
+                "pending":0,
+                "incomplete":0
+            }
+        },
+        "flexReferenceTags":[
+
+        ],
+        "school":"School Lima for Smart People",
+        "rotationStartDate":"2018-11-01",
+        "term":"Spring",
+        "course":"Course 123",
+        "site":[
+            "Site Lima"
+        ]
+    },
+    {
+        "id":"3750435590445729232",
+        "name":"M195 - old unit",
+        "summary":{
+            "memberships":{
+                "invited":4,
+                "accepted":4,
+                "revoked":0
+            },
+            "checklistItems":{
+                "total":12,
+                "complete":3,
+                "pending":4,
+                "incomplete":5
+            }
+        },
+        "flexReferenceTags":[
+            {
+                "name":"Soft Silk Sheets",
+                "slug":"soft-silk-sheets",
+                "color":"#d6d6d6"
+            }
+        ],
+        "school":"School Lima for Smart People",
+        "rotationStartDate":"2018-03-01",
+        "term":"Spring",
+        "course":"NUR 201",
+        "site":[
+            "Hospital Bravo"
+        ]
+    },
+    {
+        "id":"5467258195883840286",
+        "name":"Test Just Checking Inst 2",
+        "summary":{
+            "memberships":{
+                "invited":2,
+                "accepted":2,
+                "revoked":0
+            },
+            "checklistItems":{
+                "total":4,
+                "complete":0,
+                "pending":4,
+                "incomplete":0
+            }
+        },
+        "flexReferenceTags":[
+
+        ],
+        "school":"School Lima for Smart People",
+        "rotationStartDate":"2019-09-12",
+        "term":"Spring",
+        "course":"Another Course",
+        "site":[
+            "Site Lima"
+        ]
+    },
+    {
+        "id":"3687423976407041272",
+        "name":"NUR 201 Spring 16419 - 1512490392",
+        "summary":{
+            "memberships":{
+                "invited":1,
+                "accepted":1,
+                "revoked":0
+            },
+            "checklistItems":{
+                "total":0,
+                "complete":0,
+                "pending":0,
+                "incomplete":0
+            }
+        },
+        "flexReferenceTags":[
+
+        ],
+        "school":"School Lima for Smart People",
+        "rotationStartDate":"2018-03-02",
+        "term":"Spring",
+        "course":"NUR 201",
+        "site":[
+            "Hospital Bravo"
+        ]
+    },
+    {
+        "id":"3950623896381687596",
+        "name":"Ben's Test",
+        "summary":{
+            "memberships":{
+                "invited":4,
+                "accepted":3,
+                "revoked":0
+            },
+            "checklistItems":{
+                "total":16,
+                "complete":2,
+                "pending":4,
+                "incomplete":10
+            }
+        },
+        "flexReferenceTags":[
+
+        ],
+        "school":"University Lima",
+        "rotationStartDate":"2018-12-12",
+        "term":"Fall",
+        "course":"NUR 101",
+        "site":[
+            "Hospital Zulu"
+        ]
+    },
+    {
+        "id":"5467293932847092706",
+        "name":"Kennon's Fix Group",
+        "summary":{
+            "memberships":{
+                "invited":4,
+                "accepted":4,
+                "revoked":0
+            },
+            "checklistItems":{
+                "total":156,
+                "complete":0,
+                "pending":84,
+                "incomplete":72
+            }
+        },
+        "flexReferenceTags":[
+
+        ],
+        "school":"School Lima for Smart People",
+        "rotationStartDate":"2019-09-06",
+        "term":"Fall",
+        "course":"Another Course 4",
+        "site":[
+            "Site Lima"
+        ]
+    },
+    {
+        "id":"3734526000067774020",
+        "name":"Testing Scheduling Bug",
+        "summary":{
+            "memberships":{
+                "invited":2,
+                "accepted":2,
+                "revoked":0
+            },
+            "checklistItems":{
+                "total":18,
+                "complete":0,
+                "pending":7,
+                "incomplete":11
+            }
+        },
+        "flexReferenceTags":[
+
+        ],
+        "school":"School Lima for Smart People",
+        "rotationStartDate":"2018-01-01",
+        "term":"Spring",
+        "course":"NUR 101",
+        "site":[
+            "Site Lima",
+            "Lima Hospital is the Best",
+            "Hospital Bravo"
+        ]
+    },
+    {
+        "id":"3871497519414380132",
+        "name":"Improved Item History for PAT - Magda before group 1",
+        "summary":{
+            "memberships":{
+                "invited":5,
+                "accepted":4,
+                "revoked":1
+            },
+            "checklistItems":{
+                "total":18,
+                "complete":0,
+                "pending":6,
+                "incomplete":12
+            }
+        },
+        "flexReferenceTags":[
+
+        ],
+        "school":"School Lima for Smart People",
+        "rotationStartDate":"2018-08-16",
+        "term":"Fall",
+        "course":"NUR 305",
+        "site":[
+            "Lima Hospital is the Best"
+        ]
+    },
+    {
+        "id":"5472310339011858534",
+        "name":"Checking Ins. Reg 1",
+        "summary":{
+            "memberships":{
+                "invited":3,
+                "accepted":3,
+                "revoked":0
+            },
+            "checklistItems":{
+                "total":102,
+                "complete":0,
+                "pending":53,
+                "incomplete":49
+            }
+        },
+        "flexReferenceTags":[
+
+        ],
+        "school":"School Lima for Smart People",
+        "rotationStartDate":"2019-09-01",
+        "term":"Fall",
+        "course":"Another Course 4",
+        "site":[
+            "Site Lima"
+        ]
+    },
+    {
+        "id":"3999092665239995764",
+        "name":"last - \/\/",
+        "summary":{
+            "memberships":{
+                "invited":4,
+                "accepted":4,
+                "revoked":0
+            },
+            "checklistItems":{
+                "total":28,
+                "complete":0,
+                "pending":20,
+                "incomplete":8
+            }
+        },
+        "flexReferenceTags":[
+
+        ],
+        "school":"School Lima for Smart People",
+        "rotationStartDate":"2019-02-08",
+        "term":"Spring",
+        "course":"NUR 201",
+        "site":[
+            "Site Lima"
+        ]
+    },
+    {
+        "id":"5498528650292613134",
+        "name":"7\/30\/19 - Magda 1",
+        "summary":{
+            "memberships":{
+                "invited":4,
+                "accepted":4,
+                "revoked":0
+            },
+            "checklistItems":{
+                "total":76,
+                "complete":0,
+                "pending":41,
+                "incomplete":35
+            }
+        },
+        "flexReferenceTags":[
+
+        ],
+        "school":"School Lima for Smart People",
+        "rotationStartDate":"2019-07-30",
+        "term":"Fall",
+        "course":"NUR 101",
+        "site":[
+            "Site Whiskey",
+            "Lima Hospital is the Best",
+            "Hospital Bravo",
+            "Site Delta",
+            "Site Lima",
+            "School Lima for Smart People"
+        ]
+    },
+    {
+        "id":"5462876687043646398",
+        "name":"Site Lima\/Delta Group",
+        "summary":{
+            "memberships":{
+                "invited":1,
+                "accepted":1,
+                "revoked":0
+            },
+            "checklistItems":{
+                "total":14,
+                "complete":0,
+                "pending":6,
+                "incomplete":8
+            }
+        },
+        "flexReferenceTags":[
+
+        ],
+        "school":"School Lima for Smart People",
+        "rotationStartDate":"2019-10-12",
+        "term":"Fall",
+        "course":"Another Course 4",
+        "site":[
+            "Site Delta",
+            "Site Lima"
+        ]
+    },
+    {
+        "id":"3876588555660691048",
+        "name":"managegroup2",
+        "summary":{
+            "memberships":{
+                "invited":4,
+                "accepted":1,
+                "revoked":2
+            },
+            "checklistItems":{
+                "total":0,
+                "complete":0,
+                "pending":0,
+                "incomplete":0
+            }
+        },
+        "flexReferenceTags":[
+
+        ],
+        "school":"School Lima for Smart People",
+        "rotationStartDate":"2018-09-03",
+        "term":"Fall",
+        "course":"NUR 101",
+        "site":[
+            "School Lima for Smart People"
+        ]
+    },
+    {
+        "id":"3809966840466113560",
+        "name":"2504 Tag Bug Fixes - 1",
+        "summary":{
+            "memberships":{
+                "invited":5,
+                "accepted":4,
+                "revoked":0
+            },
+            "checklistItems":{
+                "total":13,
+                "complete":4,
+                "pending":3,
+                "incomplete":6
+            }
+        },
+        "flexReferenceTags":[
+            {
+                "name":"STUFFFff",
+                "slug":"stufffff",
+                "color":"#2d8a42"
+            },
+            {
+                "name":"\\\\9999999123",
+                "slug":"9999999123",
+                "color":"#000000"
+            },
+            {
+                "name":"asdasdasoP",
+                "slug":"asdasdasop",
+                "color":"#ffd000"
+            },
+            {
+                "name":"2504 Tag Bug Fixes - 1",
+                "slug":"2504-tag-bug-fixes-1",
+                "color":"#803782"
+            }
+        ],
+        "school":"School Lima for Smart People",
+        "rotationStartDate":"2018-05-13",
+        "term":"Summer I",
+        "course":"NUR 101",
+        "site":[
+            "Lima Hospital is the Best"
+        ]
+    },
+    {
+        "id":"3900528367572616456",
+        "name":"Merge maybe",
+        "summary":{
+            "memberships":{
+                "invited":1,
+                "accepted":1,
+                "revoked":0
+            },
+            "checklistItems":{
+                "total":0,
+                "complete":0,
+                "pending":0,
+                "incomplete":0
+            }
+        },
+        "flexReferenceTags":[
+
+        ],
+        "school":"School Lima for Smart People",
+        "rotationStartDate":"2018-08-01",
+        "term":"Fall",
+        "course":"Another Course",
+        "site":[
+            "Lima Hospital is the Best"
+        ]
+    },
+    {
+        "id":"5502174203828228506",
+        "name":"7\/25\/2019 - Magda",
+        "summary":{
+            "memberships":{
+                "invited":3,
+                "accepted":3,
+                "revoked":0
+            },
+            "checklistItems":{
+                "total":84,
+                "complete":3,
+                "pending":48,
+                "incomplete":33
+            }
+        },
+        "flexReferenceTags":[
+
+        ],
+        "school":"School Lima for Smart People",
+        "rotationStartDate":"2019-07-25",
+        "term":"Fall",
+        "course":"NUR 101",
+        "site":[
+            "Hospital Bravo",
+            "Site Lima"
+        ]
+    },
+    {
+        "id":"5486082905304191894",
+        "name":"Christy's Test Group",
+        "summary":{
+            "memberships":{
+                "invited":1,
+                "accepted":1,
+                "revoked":0
+            },
+            "checklistItems":{
+                "total":2,
+                "complete":0,
+                "pending":2,
+                "incomplete":0
+            }
+        },
+        "flexReferenceTags":[
+
+        ],
+        "school":"School Lima for Smart People",
+        "rotationStartDate":"2019-08-31",
+        "term":"Fall",
+        "course":"NUR 101",
+        "site":[
+            "Site Lima"
+        ]
+    }
+]
